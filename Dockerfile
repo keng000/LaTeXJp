@@ -20,4 +20,4 @@ ENV LC_ALL en_US.UTF-8
 
 RUN apt-get -qy autoremove
 
-ADD latex /latexe
+ADD latex /latex
